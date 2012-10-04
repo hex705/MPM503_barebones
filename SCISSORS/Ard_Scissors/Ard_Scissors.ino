@@ -25,7 +25,6 @@
             String s = incomingMessage.getString(0);     // get ELEMENT 0 from MESSAGE -- assuming ELEMENT(0) is a  String
             int    i = incomingMessage.getInt(1);       // get ELEMENT 1 from MESSAGE -- assuming ELEMENT(1) is an int  
          
-        
          
         }
          
